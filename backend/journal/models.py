@@ -10,7 +10,7 @@ class Journal(models.Model):
     user_id = models.CharField(max_length=100)
     date = models.DateTimeField(auto_created=True)
     title = models.CharField(max_length = 100, default = "Untitled")
-    content = models.CharField(max_length=1000)
+    content = models.TextField()
     mood = models.CharField(max_length = 20,choices = moods)
 
     def __str__(self):
