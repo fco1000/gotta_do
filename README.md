@@ -1,6 +1,6 @@
 # Gotta\_Do App
 
-> "You gotta do what you gotta do. No excuses. No mercy."
+> "You gotta do what you gotta do."
 
 **Gotta\_Do** is a brutal, no-nonsense productivity and accountability app built for people who are tired of their own excuses. It combines tasks, journaling, reminders, and an intelligent tone-shifting AI that adjusts based on your behavior. It's your personal drill sergeant in your pocket — sarcastic, sometimes cruel, but always effective.
 
